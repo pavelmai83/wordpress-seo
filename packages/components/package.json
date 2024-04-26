@@ -3,6 +3,10 @@
   "version": "2.19.0",
   "description": "Yoast Components",
   "main": "build/index.js",
+  "files": [
+    "build",
+    "!*.map"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Yoast/javascript.git",
@@ -16,8 +20,7 @@
     "build:css": "postcss src/**/*.css --base src --dir build",
     "clean": "rm -rf build",
     "test": "jest",
-    "lint": "eslint . --max-warnings=0",
-    "prepublishOnly": "yarn build"
+    "lint": "eslint . --max-warnings=0"
   },
   "dependencies": {
     "@wordpress/a11y": "^1.1.3",

@@ -17,7 +17,8 @@
     "directory": "packages/yoastseo"
   },
   "files": [
-    "build/**/*",
+    "build",
+    "!*.map",
     "vendor",
     "images"
   ],
@@ -27,8 +28,7 @@
     "build:js": "babel src --copy-files --source-maps --out-dir build",
     "clean": "rm -rf build",
     "test": "grunt get-premium-configuration && jest",
-    "lint": "eslint src spec --max-warnings 10",
-    "prepublishOnly": "yarn build"
+    "lint": "eslint src spec --max-warnings 10"
   },
   "engines": {
     "node": ">=8.0.0"

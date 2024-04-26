@@ -2,6 +2,10 @@
   "name": "@yoast/search-metadata-previews",
   "version": "2.24.1",
   "main": "build/index.js",
+  "files": [
+    "build",
+    "!*.map"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Yoast/javascript.git",
@@ -14,8 +18,7 @@
     "build:js": "babel src --out-dir build",
     "clean": "rm -rf build",
     "test": "jest",
-    "lint": "eslint . --max-warnings=7",
-    "prepublishOnly": "yarn build"
+    "lint": "eslint . --max-warnings=7"
   },
   "dependencies": {
     "@wordpress/a11y": "^1.0.7",
