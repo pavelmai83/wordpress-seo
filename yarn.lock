@@ -11200,6 +11200,7 @@ __metadata:
     interpolate-components: "npm:^1.1.0"
     jed: "npm:^1.1.1"
     jest: "npm:^27.5.1"
+    jest-environment-jsdom: "npm:^27.5.1"
     jest-styled-components: "npm:^7.0.3"
     lodash: "npm:^4.17.21"
     marked: "npm:^0.7.0"
