@@ -365,7 +365,7 @@ exports[`ContentAnalysis the ContentAnalysis component with custom result catego
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Error: Analysis not loaded",
               }
             }
@@ -438,7 +438,7 @@ exports[`ContentAnalysis the ContentAnalysis component with custom result catego
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Your text is bad, and you should feel bad.",
               }
             }
@@ -535,7 +535,7 @@ exports[`ContentAnalysis the ContentAnalysis component with custom result catego
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "I know you can do better! You can do it!",
               }
             }
@@ -608,7 +608,7 @@ exports[`ContentAnalysis the ContentAnalysis component with custom result catego
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Maybe you should change this...",
               }
             }
@@ -681,7 +681,7 @@ exports[`ContentAnalysis the ContentAnalysis component with custom result catego
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "You're doing great!",
               }
             }
@@ -710,7 +710,7 @@ exports[`ContentAnalysis the ContentAnalysis component with custom result catego
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Woohoo!",
               }
             }
@@ -1111,7 +1111,7 @@ exports[`ContentAnalysis the ContentAnalysis component with disabled buttons mat
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Error: Analysis not loaded",
               }
             }
@@ -1184,7 +1184,7 @@ exports[`ContentAnalysis the ContentAnalysis component with disabled buttons mat
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Your text is bad, and you should feel bad.",
               }
             }
@@ -1281,7 +1281,7 @@ exports[`ContentAnalysis the ContentAnalysis component with disabled buttons mat
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "I know you can do better! You can do it!",
               }
             }
@@ -1354,7 +1354,7 @@ exports[`ContentAnalysis the ContentAnalysis component with disabled buttons mat
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Maybe you should change this...",
               }
             }
@@ -1427,7 +1427,7 @@ exports[`ContentAnalysis the ContentAnalysis component with disabled buttons mat
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "You're doing great!",
               }
             }
@@ -1456,7 +1456,7 @@ exports[`ContentAnalysis the ContentAnalysis component with disabled buttons mat
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Woohoo!",
               }
             }
@@ -1822,7 +1822,7 @@ exports[`ContentAnalysis the ContentAnalysis component with hidden buttons match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Error: Analysis not loaded",
               }
             }
@@ -1895,7 +1895,7 @@ exports[`ContentAnalysis the ContentAnalysis component with hidden buttons match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Your text is bad, and you should feel bad.",
               }
             }
@@ -1968,7 +1968,7 @@ exports[`ContentAnalysis the ContentAnalysis component with hidden buttons match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "I know you can do better! You can do it!",
               }
             }
@@ -2041,7 +2041,7 @@ exports[`ContentAnalysis the ContentAnalysis component with hidden buttons match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Maybe you should change this...",
               }
             }
@@ -2114,7 +2114,7 @@ exports[`ContentAnalysis the ContentAnalysis component with hidden buttons match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "You're doing great!",
               }
             }
@@ -2143,7 +2143,7 @@ exports[`ContentAnalysis the ContentAnalysis component with hidden buttons match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Woohoo!",
               }
             }
@@ -2520,7 +2520,7 @@ exports[`ContentAnalysis the ContentAnalysis component with specified header lev
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Error: Analysis not loaded",
               }
             }
@@ -2593,7 +2593,7 @@ exports[`ContentAnalysis the ContentAnalysis component with specified header lev
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Your text is bad, and you should feel bad.",
               }
             }
@@ -2690,7 +2690,7 @@ exports[`ContentAnalysis the ContentAnalysis component with specified header lev
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "I know you can do better! You can do it!",
               }
             }
@@ -2763,7 +2763,7 @@ exports[`ContentAnalysis the ContentAnalysis component with specified header lev
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Maybe you should change this...",
               }
             }
@@ -2836,7 +2836,7 @@ exports[`ContentAnalysis the ContentAnalysis component with specified header lev
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "You're doing great!",
               }
             }
@@ -2865,7 +2865,7 @@ exports[`ContentAnalysis the ContentAnalysis component with specified header lev
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Woohoo!",
               }
             }
@@ -3274,7 +3274,7 @@ exports[`ContentAnalysis the ContentAnalysis component with upsell results match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Error: Analysis not loaded",
               }
             }
@@ -3347,7 +3347,7 @@ exports[`ContentAnalysis the ContentAnalysis component with upsell results match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Improve your analysis!",
               }
             }
@@ -3376,7 +3376,7 @@ exports[`ContentAnalysis the ContentAnalysis component with upsell results match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Your text is bad, and you should feel bad.",
               }
             }
@@ -3473,7 +3473,7 @@ exports[`ContentAnalysis the ContentAnalysis component with upsell results match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "I know you can do better! You can do it!",
               }
             }
@@ -3546,7 +3546,7 @@ exports[`ContentAnalysis the ContentAnalysis component with upsell results match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Maybe you should change this...",
               }
             }
@@ -3619,7 +3619,7 @@ exports[`ContentAnalysis the ContentAnalysis component with upsell results match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "You're doing great!",
               }
             }
@@ -3648,7 +3648,7 @@ exports[`ContentAnalysis the ContentAnalysis component with upsell results match
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Woohoo!",
               }
             }
@@ -4049,7 +4049,7 @@ exports[`ContentAnalysis the ContentAnalysis component without language notice m
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Error: Analysis not loaded",
               }
             }
@@ -4122,7 +4122,7 @@ exports[`ContentAnalysis the ContentAnalysis component without language notice m
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Your text is bad, and you should feel bad.",
               }
             }
@@ -4219,7 +4219,7 @@ exports[`ContentAnalysis the ContentAnalysis component without language notice m
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "I know you can do better! You can do it!",
               }
             }
@@ -4292,7 +4292,7 @@ exports[`ContentAnalysis the ContentAnalysis component without language notice m
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Maybe you should change this...",
               }
             }
@@ -4365,7 +4365,7 @@ exports[`ContentAnalysis the ContentAnalysis component without language notice m
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "You're doing great!",
               }
             }
@@ -4394,7 +4394,7 @@ exports[`ContentAnalysis the ContentAnalysis component without language notice m
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Woohoo!",
               }
             }
@@ -4769,7 +4769,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems and cons
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Error: Analysis not loaded",
               }
             }
@@ -4842,7 +4842,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems and cons
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "I know you can do better! You can do it!",
               }
             }
@@ -4915,7 +4915,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems and cons
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "You're doing great!",
               }
             }
@@ -4944,7 +4944,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems and cons
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Woohoo!",
               }
             }
@@ -5319,7 +5319,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems and impr
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Error: Analysis not loaded",
               }
             }
@@ -5392,7 +5392,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems and impr
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Maybe you should change this...",
               }
             }
@@ -5465,7 +5465,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems and impr
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "You're doing great!",
               }
             }
@@ -5494,7 +5494,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems and impr
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Woohoo!",
               }
             }
@@ -5882,7 +5882,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems matches 
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Error: Analysis not loaded",
               }
             }
@@ -5955,7 +5955,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems matches 
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "I know you can do better! You can do it!",
               }
             }
@@ -6028,7 +6028,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems matches 
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Maybe you should change this...",
               }
             }
@@ -6101,7 +6101,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems matches 
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "You're doing great!",
               }
             }
@@ -6130,7 +6130,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems matches 
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Woohoo!",
               }
             }
@@ -6492,7 +6492,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems, improve
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Error: Analysis not loaded",
               }
             }
@@ -6565,7 +6565,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems, improve
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "You're doing great!",
               }
             }
@@ -6594,7 +6594,7 @@ exports[`ContentAnalysis the ContentAnalysis component without problems, improve
         >
           <span
             dangerouslySetInnerHTML={
-              Object {
+              {
                 "__html": "Woohoo!",
               }
             }

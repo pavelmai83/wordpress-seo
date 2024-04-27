@@ -35,7 +35,7 @@ exports[`The SiteSEOReport testing suite The SiteSEOReport should match the snap
       <span
         className="kNLErC hgcwtA assessments__item-text"
         dangerouslySetInnerHTML={
-          Object {
+          {
             "__html": "<div></div>",
           }
         }
@@ -55,7 +55,7 @@ exports[`The SiteSEOReport testing suite The SiteSEOReport should match the snap
       <span
         className="kNLErC hgcwtA assessments__item-text"
         dangerouslySetInnerHTML={
-          Object {
+          {
             "__html": "<div></div>",
           }
         }
@@ -75,7 +75,7 @@ exports[`The SiteSEOReport testing suite The SiteSEOReport should match the snap
       <span
         className="kNLErC hgcwtA assessments__item-text"
         dangerouslySetInnerHTML={
-          Object {
+          {
             "__html": "<div></div>",
           }
         }
