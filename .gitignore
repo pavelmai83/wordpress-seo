@@ -62,6 +62,7 @@ temp/
 .svn
 .tmp
 .cache/phpunit/cache/
+.nx/cache
 
 ############
 ## Composer
