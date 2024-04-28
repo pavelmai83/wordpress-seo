@@ -14292,7 +14292,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:^2.4.0, core-js@npm:^2.5.0, core-js@npm:^2.5.7, core-js@npm:^2.6.12":
+"core-js@npm:^2.4.0, core-js@npm:^2.5.0, core-js@npm:^2.5.7":
   version: 2.6.12
   resolution: "core-js@npm:2.6.12"
   checksum: 10c0/00128efe427789120a06b819adc94cc72b96955acb331cb71d09287baf9bd37bebd191d91f1ee4939c893a050307ead4faea08876f09115112612b6a05684b63
@@ -36603,7 +36603,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "wordpress-seo@workspace:."
   dependencies:
-    "@babel/core": "npm:^7.24.4"
     "@slack/webhook": "npm:^5.0.2"
     "@tailwindcss/forms": "npm:^0.5.3"
     "@wordpress/dependency-extraction-webpack-plugin": "npm:^4.28.0"
@@ -36615,7 +36614,6 @@ __metadata:
     "@yoast/tailwindcss-preset": "npm:^2.3.0"
     "@yoast/ui-library": "npm:^4.0.0"
     colors: "npm:1.4.0"
-    core-js: "npm:^2.6.12"
     cross-env: "npm:^7.0.3"
     dotenv: "npm:^8.2.0"
     eslint: "npm:^8.57.0"

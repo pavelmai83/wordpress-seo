@@ -34,7 +34,6 @@
     "webpack-analyze-bundle": "wp-scripts build --config config/webpack/webpack.config.js --webpack-bundle-analyzer"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.4",
     "@slack/webhook": "^5.0.2",
     "@tailwindcss/forms": "^0.5.3",
     "@wordpress/dependency-extraction-webpack-plugin": "^4.28.0",
@@ -46,7 +45,6 @@
     "@yoast/tailwindcss-preset": "^2.3.0",
     "@yoast/ui-library": "^4.0.0",
     "colors": "1.4.0",
-    "core-js": "^2.6.12",
     "cross-env": "^7.0.3",
     "dotenv": "^8.2.0",
     "eslint": "^8.57.0",
